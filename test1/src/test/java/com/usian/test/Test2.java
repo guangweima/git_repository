@@ -4,4 +4,7 @@ package com.usian.test;
 public class Test2 {
     //你提交的代码
    //你的同事二狗提交的代码
+    /**
+     * 修改1.0的bug---2
+     */
 }
